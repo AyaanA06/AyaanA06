@@ -1,16 +1,16 @@
-## Hi there 👋
+## Ayaans Repository
 
-<!--
-**AyaanA06/AyaanA06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Second Year Software-Engineering Student @ Macquarie Uni, Aspiring to be a full stack devoloper whilst building a strong foundation in modern web technologies.**
 
-Here are some ideas to get you started:
+### Working on:
+* **Learning:** The fundamentals of the web (HTML, CSS, JavaScript) to prepare for React.
+* **Building:** My first front-end web projects to transition from theoretical university coursework to practical application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack:
+* Java (Object-Oriented Programming & Systems Design)
+* Data Structures & Algorithms
+* Python
+* C
+
+### Connect:
+* **LinkedIn:** [Ayaan Khan](https://www.linkedin.com/in/ayaankhan006/)
