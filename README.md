@@ -1,4 +1,4 @@
-## Ayaans Repository
+## About Me
 
 **Second Year Software-Engineering Student @ Macquarie Uni, Aspiring to be a full stack devoloper whilst building a strong foundation in modern web technologies.**
 
